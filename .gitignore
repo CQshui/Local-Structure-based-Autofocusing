@@ -1,0 +1,14 @@
+*.jpg
+*.png
+*.txt
+*.pth
+*.csv
+*.pt
+*.pdf
+*.tif
+*.bmp
+*.pb
+
+*.data-00000-of-00001
+*.index
+*.keras
